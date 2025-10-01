@@ -42,3 +42,5 @@ getAttribute → sirve para saber el daño actual del arma (como mirar estadíst
 setAttribute → sirve para cambiar el arma o su daño (como equipar un nuevo arma).
 
 Todo sucede sin recargar la página, igual que cambiar de arma o habilidad en un juego usando un combo de botones.
+
+ [Link de conversación con chat ](https://chatgpt.com/share/68dcb962-f6f0-8001-b03f-15251912b941) 
